@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const fs = require('fs');
 const client = new Discord.Client();
-var prefix = "-";
+var prefix = "y";
 var dat = JSON.parse("{}");
 function forEachObject(obj, func) {
     Object.keys(obj).forEach(function (key) { func(key, obj[key]) })
@@ -24,10 +24,10 @@ function forEachObject(obj, func) {
 client.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~Team #Plus Bot~~~~~~~~~~~');
+console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~Team #YAHYA 9952~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ "  Team #Plus Bot " ] servers! [ " ${client.guilds.size} " ] Users! [ " ${client.users.size} " ]`); 
+console.log(`Logged in as  * [ "  Team #YAHYA 9952 " ] servers! [ " ${client.guilds.size} " ] Users! [ " ${client.users.size} " ]`); 
 
 });
 
@@ -137,13 +137,7 @@ client.on("message", message => {
    
    **
    
-╭━━━┳╮╱╱╱╱╱╱╱ ╭━━╮╱╱╱╱╭╮
-┃╭━╮┃┃╱╱╱╱╱╱╱ ┃╭╮┃╱╱╱╭╯╰╮
-┃╰━╯┃┃╭╮╭┳━━╮ ┃╰╯╰┳━━╋╮╭╯
-┃╭━━┫┃┃┃┃┃━━┫ ┃╭━╮┃╭╮┃┃┃
-┃┃╱╱┃╰┫╰╯┣━━┃ ┃╰━╯┃╰╯┃┃╰╮
-╰╯╱╱╰━┻━━┻━━╯ ╰━━━┻━━╯╰━╯
-   **
+*** Y A H Y A ***
    
            ***General Commands***
    **
@@ -206,7 +200,7 @@ client.on("message", message => {
    『soon』
     
              _ _---------------- _ _
-  BOT By: | <@374911904885506048> |-| <@311163751522893826> |-| <@407695930750402561> |
+  BOT By: | <@529646570983915551> |-| <@490252038492389379> |-| <@455895026547818537> |
 
    **
 
@@ -440,16 +434,16 @@ client.on('message', message => {
         message.edit('**Te**')    
         message.edit('**Tea**')
         message.edit('**Team**')
-        message.edit('**Team P**')
-        message.edit('**Team Pl**')
-        message.edit('**Team Plu*')
-        message.edit('**Team Plus**')
-        message.edit('**Team Plus **')
-        message.edit('**Team Plus B**')
-        message.edit('**Team Plus Bo**')
-        message.edit('**Team Plus Bot**')
-        message.edit('**Team Plus Bot **')
-        message.edit('**Team Plus Bot ..**')
+        message.edit('**Team Y**')
+        message.edit('**Team YA**')
+        message.edit('**Team YAH*')
+        message.edit('**Team YAHY**')
+        message.edit('**Team YAHYA **')
+        message.edit('**Team YAHYA **')
+        message.edit('**Team YAHYA 9**')
+        message.edit('**Team YAHYA 99**')
+        message.edit('**Team YAHYA 995 **')
+        message.edit('**Team 9952 ..**')
         }, 1000)
     }
     
@@ -1546,34 +1540,34 @@ client.on('message', message => {
 
 
 if (message.content.startsWith(prefix + 'playing')) {
-if (message.author.id !== '407695930750402561','294980175253209089') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
+if (message.author.id !== '529646570983915551','529646570983915551') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
 client.user.setGame(argresult);
     message.channel.sendMessage(`**${argresult}** : تم تغيير الحالة`)
 } 
 
  
 if (message.content.startsWith(prefix + 'streem')) {
-if (message.author.id !== '407695930750402561','294980175253209089') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
+if (message.author.id !== '529646570983915551','529646570983915551') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
 client.user.setGame(argresult, "http://twitch.tv/y04zgamer");
     message.channel.sendMessage(`**${argresult}** :تم تغيير الحالة الى ستريمنج`)
 } else
 
 if (message.content.startsWith(prefix + 'name')) {
-if (message.author.id !== '407695930750402561','294980175253209089') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
+if (message.author.id !== '529646570983915551','529646570983915551') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
   client.user.setUsername(argresult).then
       message.channel.sendMessage(`**${argresult}** : تم تغير الأسم`)
   return message.reply("**لا تستطيع تغير الأسم الا بعد ساعتين**");
 } else
     
 if (message.content.startsWith(prefix + 'image')) {
-if (message.author.id !== '407695930750402561','294980175253209089') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
+if (message.author.id !== '529646570983915551','529646570983915551') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
 client.user.setAvatar(argresult);
     message.channel.sendMessage(`**${argresult}** : تم تغير صورة البوت`);
 } else
 
 
 if (message.content.startsWith(prefix + 'watching')) {
-if (message.author.id !== '407695930750402561','294980175253209089') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
+if (message.author.id !== '529646570983915551','529646570983915551') return message.reply('** هذا الأمر فقط لصاحب البوت و شكراًً **')
     client.user.setActivity(argresult, {type : 'watching'});
  message.channel.sendMessage(`**${argresult}** : تم تغيير الووتشينق الى`)
 }
